@@ -57,10 +57,6 @@ If you wish to contribute to this project, please fork the repository and submit
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-
-1. Thanks to the Streamlit team for creating an amazing tool for rapid data application development.
-2. Hat tip to anyone whose code was used as inspiration or directly included in this project.
 
 Make sure to replace `https://github.com/your-username/your-repo-name.git` with the actual URL of your GitHub repository and `app.py` with the actual filename of your Streamlit application script. If you have a license file, also ensure that the link to the `[LICENSE](LICENSE)` is correct.
 
